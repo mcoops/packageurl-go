@@ -1,3 +1,3 @@
-module github.com/package-url/packageurl-go
+module github.com/mcoops/packageurl-go
 
-go 1.12
+go 1.16
